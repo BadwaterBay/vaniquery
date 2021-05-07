@@ -57,7 +57,7 @@
     "**/*.{js,ts}": "eslint --cache --fix"
   },
   "dependencies": {
-    "yargs": "^15.4.1"
+    "yargs": "^17.0.1"
   },
   "devDependencies": {
     "@types/jest": "^26.0.13",
